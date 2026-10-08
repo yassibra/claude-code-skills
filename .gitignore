@@ -1,0 +1,11 @@
+# Whitelist: everything is private unless listed below.
+/*
+
+# Repo files
+!/.gitignore
+!/README.md
+!/LICENSE
+
+# Public skills (add a line to publish a skill)
+!/save-that-step/
+!/recall-step/
