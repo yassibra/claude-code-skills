@@ -2,7 +2,7 @@
 
 Reusable skills for [Claude Code](https://claude.com/claude-code), built for workflows I actually use.
 ## Demonstration
-https://github.com/user-attachments/assets/e8fe6812-545b-4092-ab65-767032ba948a
+https://github.com/user-attachments/assets/15b00de6-a413-41ab-99f0-4cad4774a4bc
 
 ## Skills
 
